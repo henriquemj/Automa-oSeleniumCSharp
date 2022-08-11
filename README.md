@@ -6,7 +6,7 @@ Este repositório contém exemplos de código do Webdriver, exercícios e tutori
 **OBSERVAÇÃO:** atualmente é compatível com o ChromeDriver.
 
 ## Site de demonstração para praticar Webdriver:
-Aqui está uma lista de sites onde você pode praticar o Selenium webdriver. Você achará a lista incrivelmente útil, pois cobrirá muitos dos seus cenários de casos de uso de automação da Web em tempo real. Alguns dos exemplos comuns incluem testes de uma página de login, formulários de registro online e automatização de reservas de voos.
+Aqui está uma lista de sites onde você pode praticar o Selenium webdriver. Você achará a lista incrivelmente útil, pois cobrirá muitos dos seus cenários de casos de uso de automação da Web em tempo real. Alguns dos exemplos comuns incluem testes de uma página de login, formulários de registro online.
  
 - http://newtours.demoaut.com/
 - https://ultimateqa.com/automation
